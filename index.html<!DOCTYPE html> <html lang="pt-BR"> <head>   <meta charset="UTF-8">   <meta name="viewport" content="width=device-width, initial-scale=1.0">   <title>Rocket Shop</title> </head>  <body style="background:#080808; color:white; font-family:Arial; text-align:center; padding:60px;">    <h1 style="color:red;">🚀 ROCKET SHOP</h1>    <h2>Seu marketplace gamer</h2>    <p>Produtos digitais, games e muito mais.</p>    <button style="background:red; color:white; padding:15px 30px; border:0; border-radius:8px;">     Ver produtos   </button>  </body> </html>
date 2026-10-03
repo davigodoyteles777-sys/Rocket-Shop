@@ -1,0 +1,22 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Rocket Shop</title>
+</head>
+
+<body style="background:#080808; color:white; font-family:Arial; text-align:center; padding:60px;">
+
+  <h1 style="color:red;">🚀 ROCKET SHOP</h1>
+
+  <h2>Seu marketplace gamer</h2>
+
+  <p>Produtos digitais, games e muito mais.</p>
+
+  <button style="background:red; color:white; padding:15px 30px; border:0; border-radius:8px;">
+    Ver produtos
+  </button>
+
+</body>
+</html>
